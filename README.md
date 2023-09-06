@@ -6,7 +6,7 @@ ______________________________________________________________________
 ### Explanation
 
 - Why i chose this exercise?  
-I chose this exercise because validating whether a binary tree is a binary search tree is an interesting and fundamental problem in computer science and i have worked in it before.
+I chose this exercise because validating whether a binary tree is a binary search tree is an interesting and fundamental problem in computer science and I have worked in it before.
 
 - how i solved this excersice?  
 I solved the exercise using a recursive function that checks the conditions of a BST while traversing the tree.

@@ -15,7 +15,7 @@ ______________________________________________________________________
 
 1. I created a `TreeNode` class to represent the tree nodes, which includes the properties `data`, `left`, and `right`.
 
-2. I implemented the `isBST` function in Python to check if the tree is a BST. This function calls a private method `isBSTValid` that performs the recursive verification.
+2. I implemented the `isBST` Method in Java to check if the tree is a BST. This function calls a private method `isBSTValid` that performs the recursive verification.
 
 3. The `isBSTValid` method compares the current node's value with `minValue` and `maxValue`. As the tree is traversed, these values are updated to ensure that the BST conditions are met.
 ______________________________________________________________________

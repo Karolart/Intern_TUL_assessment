@@ -47,6 +47,7 @@ ______________________________________________________________________
   - :coffee: Java, NetBeans
   ______________________________________________________________________
   ## Autors:
+  **Karol Diaz**
   - LinkedIn: [karolart](https://www.linkedin.com/in/karolart/)
   - Discord: Karola#4030
 
